@@ -162,5 +162,3 @@ A: Use sentence embeddings (BERT) for semantic similarity between resume and job
 This project demonstrates an end-to-end AI/NLP pipeline — from PDF text extraction to ML-based scoring and a polished Streamlit interface — making it ideal for **internship submission**, **GitHub portfolio**, and **LinkedIn showcase**.
 
 ---
-
-**Built with ❤️ using Python, NLP, and Streamlit.**
