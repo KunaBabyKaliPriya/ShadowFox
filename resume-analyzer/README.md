@@ -73,7 +73,7 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab'); nltk
 
 ### Run the Streamlit web app
 ```bash
-streamlit run app/streamlit_app.py
+python -m streamlit run app/streamlit_app.py
 ```
 Then open the URL shown in the terminal (usually http://localhost:8501).
 
